@@ -151,3 +151,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+/house_prices
+
+predictions*
+test*
+train*
+
+homework2/data/

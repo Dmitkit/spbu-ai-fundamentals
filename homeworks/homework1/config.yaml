@@ -1,0 +1,3 @@
+house_pricing:
+  train_dataset: C:\Coding\spbu-ai-homework\homework1\train_hw.csv
+  test_dataset: C:\Coding\spbu-ai-homework\homework1\test_hw.csv
